@@ -20,12 +20,18 @@ This is a command-line implementation of the popular casino card game Blackjack.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/blackjack-game.git
-   '''
+   git clone https://github.com/your-username/blackjack-game.git 
+   ```
 
 2. Navigate to the project directory:
 
 ```shell
     cd blackjack-game
-    '''
+```
+    
+3. Run the game:
+
+```shell
+    python blackjack.py
+ ```
    
