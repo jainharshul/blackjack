@@ -13,7 +13,7 @@ This is a command-line implementation of the popular casino card game Blackjack.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9 or higher
 
 ## How to Play
 
